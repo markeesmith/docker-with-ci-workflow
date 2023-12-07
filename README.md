@@ -20,7 +20,7 @@ A brief description of what this project does and who it's for
 ### Spin up the container
 
 ```bash
-    
+    docker run -d -p <port>:<port> <image-name>
 ```
 
 ## Usage
